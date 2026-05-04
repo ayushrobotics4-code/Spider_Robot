@@ -70,5 +70,3 @@ Ensure you have the following libraries installed in your Arduino IDE:
 ## 📌 Project Vision
 > "Building intelligent machines that operate independently, make decisions locally, and scale into real-world deployment."
 
-⚡ **Developed by Swarnendu Kundu**  
-[Portfolio](https://swarnendu-kundu-portfolio.netlify.app) | [GitHub](https://github.com/itz-void-tech)
